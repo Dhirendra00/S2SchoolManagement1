@@ -1,0 +1,17 @@
+Admin login
+Username=admin
+Password=admin
+
+CourseLeader Login
+Username=course_leader
+Password=course_leader
+
+
+ModuleLeader Login
+Username=module_leader
+Password=module_leader
+
+
+Student Login
+Username=student
+Password=student
